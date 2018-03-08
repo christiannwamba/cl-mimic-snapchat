@@ -1,0 +1,4 @@
+#Fri Jan 26 15:19:33 WAT 2018
+base.0=/home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex

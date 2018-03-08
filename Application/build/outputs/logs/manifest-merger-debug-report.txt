@@ -1,0 +1,239 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:18:1-47:12
+INJECTED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:18:1-47:12
+INJECTED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:18:1-47:12
+INJECTED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:18:1-47:12
+MERGED from [com.github.bumptech.glide:glide:4.5.0] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/glide-4.5.0.aar/451f2fa73e066d8c093692523f440928/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/3c8f6de53c685df882ab725d1d6fc4c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.cloudinary:cloudinary-android:1.23.0] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/cloudinary-android-1.23.0.aar/cc596dec7a169914a5eb84f0025a5476/AndroidManifest.xml:2:1-15:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.5.0.aar/4ad016eaf2dc00d9470f19153439f2cc/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/fbd6587c718705aa56678a24d7ced8a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/e2aa3f98b5d468bd7615b989c95f5d09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/b484b6b55d224e2214b76df64cdf29ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/b313d03df05615f8d7e9c9754c67ff3d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/75e199c2b682caa6712d9d3dbab9feca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/183f134939b78a2e41c3218c13b7634d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/d94013b71f0ddd449b6562b0a0127618/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/7a2aa911328f22ec6ce53cbc1b80b305/AndroidManifest.xml:17:1-22:12
+MERGED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:2:1-65:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/066dd65f8fd20ee8a9f797c317a0c40a/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:18:1-47:12
+INJECTED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:18:1-47:12
+INJECTED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:18:1-47:12
+	package
+		ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:19:5-47
+		INJECTED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml
+		ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:18:1-47:12
+		INJECTED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml
+		ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:18:1-47:12
+		INJECTED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:24:19-67
+application
+ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:26:5-45:19
+MERGED from [com.github.bumptech.glide:glide:4.5.0] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/glide-4.5.0.aar/451f2fa73e066d8c093692523f440928/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.5.0] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/glide-4.5.0.aar/451f2fa73e066d8c093692523f440928/AndroidManifest.xml:11:5-20
+MERGED from [com.cloudinary:cloudinary-android:1.23.0] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/cloudinary-android-1.23.0.aar/cc596dec7a169914a5eb84f0025a5476/AndroidManifest.xml:13:5-67
+MERGED from [com.cloudinary:cloudinary-android:1.23.0] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/cloudinary-android-1.23.0.aar/cc596dec7a169914a5eb84f0025a5476/AndroidManifest.xml:13:5-67
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.5.0.aar/4ad016eaf2dc00d9470f19153439f2cc/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.5.0.aar/4ad016eaf2dc00d9470f19153439f2cc/AndroidManifest.xml:9:5-20
+MERGED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:16:5-63:19
+MERGED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:16:5-63:19
+	android:label
+		ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:29:9-41
+	android:fullBackupContent
+		ADDED from [com.cloudinary:cloudinary-android:1.23.0] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/cloudinary-android-1.23.0.aar/cc596dec7a169914a5eb84f0025a5476/AndroidManifest.xml:13:18-64
+	tools:ignore
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:16:18-44
+	android:icon
+		ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:30:9-45
+	android:allowBackup
+		ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:28:9-35
+	android:theme
+		ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:31:9-45
+	android:name
+		ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:27:9-28
+activity#com.example.android.camera2basic.CameraActivity
+ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:33:9-39:20
+	android:label
+		ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:34:19-51
+	android:name
+		ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:33:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:37:27-74
+meta-data#CLOUDINARY_URL
+ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:41:9-43:53
+	android:value
+		ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:43:13-51
+	android:name
+		ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml:42:13-42
+uses-sdk
+INJECTED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml
+INJECTED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml
+MERGED from [com.github.bumptech.glide:glide:4.5.0] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/glide-4.5.0.aar/451f2fa73e066d8c093692523f440928/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.5.0] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/glide-4.5.0.aar/451f2fa73e066d8c093692523f440928/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/3c8f6de53c685df882ab725d1d6fc4c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/3c8f6de53c685df882ab725d1d6fc4c7/AndroidManifest.xml:20:5-44
+MERGED from [com.cloudinary:cloudinary-android:1.23.0] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/cloudinary-android-1.23.0.aar/cc596dec7a169914a5eb84f0025a5476/AndroidManifest.xml:7:5-9:41
+MERGED from [com.cloudinary:cloudinary-android:1.23.0] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/cloudinary-android-1.23.0.aar/cc596dec7a169914a5eb84f0025a5476/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.5.0.aar/4ad016eaf2dc00d9470f19153439f2cc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.5.0.aar/4ad016eaf2dc00d9470f19153439f2cc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/fbd6587c718705aa56678a24d7ced8a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/fbd6587c718705aa56678a24d7ced8a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/e2aa3f98b5d468bd7615b989c95f5d09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/e2aa3f98b5d468bd7615b989c95f5d09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/b484b6b55d224e2214b76df64cdf29ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/b484b6b55d224e2214b76df64cdf29ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/b313d03df05615f8d7e9c9754c67ff3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/b313d03df05615f8d7e9c9754c67ff3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/75e199c2b682caa6712d9d3dbab9feca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/75e199c2b682caa6712d9d3dbab9feca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/183f134939b78a2e41c3218c13b7634d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/183f134939b78a2e41c3218c13b7634d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/d94013b71f0ddd449b6562b0a0127618/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/d94013b71f0ddd449b6562b0a0127618/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/7a2aa911328f22ec6ce53cbc1b80b305/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/7a2aa911328f22ec6ce53cbc1b80b305/AndroidManifest.xml:20:5-44
+MERGED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:8:5-10:41
+MERGED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:8:5-10:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/066dd65f8fd20ee8a9f797c317a0c40a/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/066dd65f8fd20ee8a9f797c317a0c40a/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml
+INJECTED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml
+		ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml
+		ADDED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/idorenyin/android-projects/android-Camera2Basic/kotlinApp/Application/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.cloudinary:cloudinary-android:1.23.0] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/cloudinary-android-1.23.0.aar/cc596dec7a169914a5eb84f0025a5476/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [com.cloudinary:cloudinary-android:1.23.0] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/cloudinary-android-1.23.0.aar/cc596dec7a169914a5eb84f0025a5476/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:14:22-78
+service#com.evernote.android.job.v21.PlatformJobService
+ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:17:9-20:72
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:19:13-37
+	android:permission
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:20:13-69
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:18:13-75
+service#com.evernote.android.job.v14.PlatformAlarmService
+ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:21:9-24:72
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:23:13-37
+	android:permission
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:24:13-69
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:22:13-77
+service#com.evernote.android.job.v14.PlatformAlarmServiceExact
+ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:26:13-82
+receiver#com.evernote.android.job.v14.PlatformAlarmReceiver
+ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:29:9-38:20
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:30:13-78
+intent-filter#com.evernote.android.job.v14.RUN_JOB+net.vrallev.android.job.v14.RUN_JOB
+ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:32:13-37:29
+action#com.evernote.android.job.v14.RUN_JOB
+ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:35:17-79
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:35:25-76
+action#net.vrallev.android.job.v14.RUN_JOB
+ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:36:17-78
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:36:25-75
+receiver#com.evernote.android.job.JobBootReceiver
+ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:39:9-48:20
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:40:13-68
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.MY_PACKAGE_REPLACED+android.intent.action.QUICKBOOT_POWERON+com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:42:13-47:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:43:17-79
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:43:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:44:17-82
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:44:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:45:25-79
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:46:17-84
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:46:25-81
+service#com.evernote.android.job.gcm.PlatformGcmService
+ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:50:9-58:19
+	android:enabled
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:52:13-36
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:53:13-36
+	android:permission
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:54:13-93
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:51:13-75
+intent-filter#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:55:13-57:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:56:17-87
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:56:25-84
+service#com.evernote.android.job.JobRescheduleService
+ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:59:9-62:72
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:61:13-37
+	android:permission
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:62:13-69
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /home/idorenyin/.gradle/caches/transforms-1/files-1.1/android-job-1.2.1.aar/e346e2efbe1340a3874cbdf91266d485/AndroidManifest.xml:60:13-73
